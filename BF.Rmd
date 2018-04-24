@@ -1,0 +1,14 @@
+```{r}
+BF=read.csv(file ="F:/Projects/R/RBlackFriday/train.csv")
+head(BF,10)
+```
+
+```{r}
+#1-Data Exploration
+summary(BF)
+```
+```{r}
+#2-Data Preparation
+
+```
+
